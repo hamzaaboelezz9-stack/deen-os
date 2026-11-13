@@ -1,0 +1,6 @@
+{
+  "name": "DeenOS",
+  "description": "All-in-one Islamic Super App and Technical Architecture Blueprint featuring Prayer Times, Qibla Compass, Holy Quran with synchronized audio, Digital Tasbih, Hadith & Duas, Hijri Calendar, Zakat Calculator, Halal Finder, and AI Islamic Assistant.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
